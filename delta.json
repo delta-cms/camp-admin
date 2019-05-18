@@ -1,0 +1,10 @@
+{
+  "name": "camp-admin",
+  "display_name": "CampAdmin",
+  "version": "0.0.0",
+  "build": "npm run build --spa",
+  "public": "dist",
+  "author": {
+    "github": "Delta CMS"
+  }
+}
